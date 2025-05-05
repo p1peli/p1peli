@@ -1,6 +1,9 @@
 
-Hi there 👋 welcome to my GitHub!  
-I'm a student interested in cybersecurity and network engineering, I also enjoy machine learning, especially clustering algorithms. 
+## 👨‍💻 whoami
+Hi there 👋 welcome to my GitHub! 
+I'm a student interested in cybersecurity and network engineering.  
+I also enjoy machine learning - especially clustering algorithms - and adding new stuff to my homelab.  
+
 ---
 
 <!---
